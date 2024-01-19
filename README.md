@@ -1397,7 +1397,7 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning](#re
 - [OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - A budgeting app based on the Bucket Budgeting Principle. `MIT` `Docker/C#`
 - [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code](https://github.com/r3-team/r3)) `MIT` `Go`
 - [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
-
+- [Spliit](https://spliit.app?ref=awesome-selfhosted) – Open source application to share expenses with friends and family. ([Source code & self-deploy](https://github.com/spliit-app/spliit)) `MIT` `Next.js`
 
 ### Monitoring
 
